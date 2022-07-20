@@ -1,0 +1,205 @@
+
+> front@1.0.0 dev /home/server/Scrat/front
+> cross-env NODE_ENV=development nodemon server/index.js --watch server
+
+[33m[nodemon] 1.19.4[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching dir(s): server/**/*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node server/index.js`[39m
+ℹ Preparing project for development
+ℹ Initial build may take a while
+✔ Builder initialized
+✔ Nuxt files generated
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ℹ Compiling Client
+✔ Client: Compiled successfully in 12.96s
+ℹ Waiting for file changes
+
+ READY  Server listening on http://192.168.1.14:3000
+
+[32m[nodemon] restarting child process[39m
+
+> front@1.0.0 dev /home/server/Scrat/front
+> cross-env NODE_ENV=development nodemon server/index.js --watch server
+
+[33m[nodemon] 1.19.4[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching dir(s): server/**/*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node server/index.js`[39m
+ℹ Preparing project for development
+ℹ Initial build may take a while
+✔ Builder initialized
+✔ Nuxt files generated
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ℹ Compiling Client
+✔ Client: Compiled successfully in 13.58s
+ℹ Waiting for file changes
+
+ READY  Server listening on http://192.168.1.14:3000
+
+
+> front@1.0.0 dev /home/server/Scrat/front
+> cross-env NODE_ENV=development nodemon server/index.js --watch server
+
+[33m[nodemon] 1.19.4[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching dir(s): server/**/*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node server/index.js`[39m
+ℹ Preparing project for development
+ℹ Initial build may take a while
+✔ Builder initialized
+✔ Nuxt files generated
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ℹ Compiling Client
+✔ Client: Compiled successfully in 12.97s
+ℹ Waiting for file changes
+
+ READY  Server listening on http://192.168.1.14:3000
+
+
+> front@1.0.0 dev /home/server/Scrat/front
+> cross-env NODE_ENV=development nodemon server/index.js --watch server
+
+[33m[nodemon] 1.19.4[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching dir(s): server/**/*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node server/index.js`[39m
+ℹ Preparing project for development
+ℹ Initial build may take a while
+✔ Builder initialized
+✔ Nuxt files generated
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ℹ Compiling Client
+✔ Client: Compiled successfully in 12.90s
+ℹ Waiting for file changes
+
+ READY  Server listening on http://192.168.1.14:3000
+
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRNOTAVAIL: address not available 192.168.1.14:3000
+    at Server.setupListenHandle [as _listen2] (net.js:1301:21)
+    at listenInCluster (net.js:1366:12)
+    at doListen (net.js:1503:7)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  code: 'EADDRNOTAVAIL',
+  errno: -99,
+  syscall: 'listen',
+  address: '192.168.1.14',
+  port: 3000
+}
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> front@1.0.0 dev /home/server/Scrat/front
+> cross-env NODE_ENV=development nodemon server/index.js --watch server
+
+[33m[nodemon] 1.19.4[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching dir(s): server/**/*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node server/index.js`[39m
+ℹ Preparing project for development
+ℹ Initial build may take a while
+✔ Builder initialized
+✔ Nuxt files generated
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ℹ Compiling Client
+✔ Client: Compiled successfully in 14.44s
+ℹ Waiting for file changes
+
+ READY  Server listening on http://192.168.1.14:3000
+
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRNOTAVAIL: address not available 192.168.1.14:3000
+    at Server.setupListenHandle [as _listen2] (net.js:1301:21)
+    at listenInCluster (net.js:1366:12)
+    at doListen (net.js:1503:7)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  code: 'EADDRNOTAVAIL',
+  errno: -99,
+  syscall: 'listen',
+  address: '192.168.1.14',
+  port: 3000
+}
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> front@1.0.0 dev /home/server/Scrat/front
+> cross-env NODE_ENV=development nodemon server/index.js --watch server
+
+[33m[nodemon] 1.19.4[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching dir(s): server/**/*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node server/index.js`[39m
+ℹ Preparing project for development
+ℹ Initial build may take a while
+✔ Builder initialized
+✔ Nuxt files generated
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ℹ Compiling Client
+✔ Client: Compiled successfully in 13.96s
+ℹ Waiting for file changes
+
+ READY  Server listening on http://192.168.1.14:3000
+
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRNOTAVAIL: address not available 192.168.1.14:3000
+    at Server.setupListenHandle [as _listen2] (net.js:1301:21)
+    at listenInCluster (net.js:1366:12)
+    at doListen (net.js:1503:7)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  code: 'EADDRNOTAVAIL',
+  errno: -99,
+  syscall: 'listen',
+  address: '192.168.1.14',
+  port: 3000
+}
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> front@1.0.0 dev /home/server/Scrat/front
+> cross-env NODE_ENV=development nodemon server/index.js --watch server
+
+[33m[nodemon] 1.19.4[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching dir(s): server/**/*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node server/index.js`[39m
+ℹ Preparing project for development
+ℹ Initial build may take a while
+✔ Builder initialized
+✔ Nuxt files generated
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ℹ Compiling Client
+✔ Client: Compiled successfully in 13.30s
+ℹ Waiting for file changes
+
+ READY  Server listening on http://192.168.1.25:3000
+
