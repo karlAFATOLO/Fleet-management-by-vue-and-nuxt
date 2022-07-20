@@ -1,0 +1,163 @@
+[
+  {
+    "name": "customer_order",
+    "path": "/customer_order",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\customer_order\\\\index.vue",
+    "chunkName": "pages/customer_order/index",
+    "_name": "_50b005d1"
+  },
+  {
+    "name": "customer_storage",
+    "path": "/customer_storage",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\customer_storage.vue",
+    "chunkName": "pages/customer_storage",
+    "_name": "_39221104"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_dd535396"
+  },
+  {
+    "name": "product",
+    "path": "/product",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\product\\\\index.vue",
+    "chunkName": "pages/product/index",
+    "_name": "_4bda1867"
+  },
+  {
+    "name": "provider_order",
+    "path": "/provider_order",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\provider_order\\\\index.vue",
+    "chunkName": "pages/provider_order/index",
+    "_name": "_f1c3efc4"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_6729caf2"
+  },
+  {
+    "name": "snooker",
+    "path": "/snooker",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\snooker\\\\index.vue",
+    "chunkName": "pages/snooker/index",
+    "_name": "_2e4eb999"
+  },
+  {
+    "name": "storage",
+    "path": "/storage",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\storage.vue",
+    "chunkName": "pages/storage",
+    "_name": "_665b7347"
+  },
+  {
+    "name": "testeee",
+    "path": "/testeee",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\testeee.vue",
+    "chunkName": "pages/testeee",
+    "_name": "_c8145282"
+  },
+  {
+    "name": "vision",
+    "path": "/vision",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\vision.vue",
+    "chunkName": "pages/vision",
+    "_name": "_e33f3f68"
+  },
+  {
+    "name": "VisionBase",
+    "path": "/VisionBase",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\VisionBase.vue",
+    "chunkName": "pages/VisionBase",
+    "_name": "_3307ccdd"
+  },
+  {
+    "name": "visionia",
+    "path": "/visionia",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\visionia.vue",
+    "chunkName": "pages/visionia",
+    "_name": "_49a0f738"
+  },
+  {
+    "name": "visionweb",
+    "path": "/visionweb",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\visionweb.vue",
+    "chunkName": "pages/visionweb",
+    "_name": "_78e7b9b8"
+  },
+  {
+    "name": "customer_order-calendar",
+    "path": "/customer_order/calendar",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\customer_order\\\\calendar.vue",
+    "chunkName": "pages/customer_order/calendar",
+    "_name": "_e3b223e2"
+  },
+  {
+    "name": "customer_order-create",
+    "path": "/customer_order/create",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\customer_order\\\\create.vue",
+    "chunkName": "pages/customer_order/create",
+    "_name": "_25f601e6"
+  },
+  {
+    "name": "provider_order-create",
+    "path": "/provider_order/create",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\provider_order\\\\create.vue",
+    "chunkName": "pages/provider_order/create",
+    "_name": "_f7517340"
+  },
+  {
+    "name": "snooker-create",
+    "path": "/snooker/create",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\snooker\\\\create.vue",
+    "chunkName": "pages/snooker/create",
+    "_name": "_79867776"
+  },
+  {
+    "name": "snooker-stats",
+    "path": "/snooker/stats",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\snooker\\\\stats.vue",
+    "chunkName": "pages/snooker/stats",
+    "_name": "_3a3cb234"
+  },
+  {
+    "name": "customer_order-id",
+    "path": "/customer_order/:id",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\customer_order\\\\_id.vue",
+    "chunkName": "pages/customer_order/_id",
+    "_name": "_bd116f0e"
+  },
+  {
+    "name": "product-id",
+    "path": "/product/:id",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\product\\\\_id.vue",
+    "chunkName": "pages/product/_id",
+    "_name": "_47ddeee2"
+  },
+  {
+    "name": "provider_order-id",
+    "path": "/provider_order/:id",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\provider_order\\\\_id.vue",
+    "chunkName": "pages/provider_order/_id",
+    "_name": "_97a90bf4"
+  },
+  {
+    "name": "snooker-id",
+    "path": "/snooker/:id",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\snooker\\\\_id.vue",
+    "chunkName": "pages/snooker/_id",
+    "_name": "_4d404e41"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\karl\\\\Desktop\\\\front\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_70a299c4"
+  }
+]
